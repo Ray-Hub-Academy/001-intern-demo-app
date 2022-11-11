@@ -1,0 +1,16 @@
+{
+    "status" : 200,
+    "message" : "Success",
+    "data" : {
+        "username" : "user",
+        "fullname" : "User",
+        "email" : "user@gmail.com",
+        "role" : "student"
+    }
+}
+
+{
+    "status" : 404,
+    "message" : "Not Found",
+    "data" : "Invalid Username / password"
+}

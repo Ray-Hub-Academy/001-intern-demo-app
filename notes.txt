@@ -1,0 +1,13 @@
+npm i -g express-generator (global install)
+npm i -g nodemon (global install)
+
+express project create -> express --view=ejs <appname>
+node module install -> npm install
+run script -> nodemon app.js (package.json)
+express project run -> npm start
+
+open browser > http://localhost:5002/
+
+ejs - > Embedded JavaScript (HTML)
+
+npm i -g raymvc
